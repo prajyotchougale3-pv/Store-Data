@@ -128,8 +128,9 @@ Step 14 – Publish the report to Power BI Service and enable sharing/refresh op
 
  
 ![Dashboard_upload](https://github.com/prajyotchougale3-pv/Store-Data/blob/main/Screenshot%202026-03-27%20161348.jpg)
-(https://github.com/prajyotchougale3-pv/Store-Data/blob/main/Screenshot%202026-03-27%20161417.jpg)
-
+![Dashboard_upload](https://github.com/prajyotchougale3-pv/Store-Data/blob/main/Screenshot%202026-03-27%20161417.jpg)
+![Dashboard_upload](https://github.com/prajyotchougale3-pv/Store-Data/blob/main/Screenshot%202026-03-27%20161439.jpg)
+![Dashboard_upload](https://github.com/prajyotchougale3-pv/Store-Data/blob/main/Screenshot%202026-03-27%20161439.jpg)
 # Insights
 
 [1] Total Number of Orders = 3510
