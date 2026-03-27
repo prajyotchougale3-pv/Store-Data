@@ -127,7 +127,8 @@ Step 14 – Publish the report to Power BI Service and enable sharing/refresh op
  # Report Snapshot (Power BI DESKTOP)
 
  
-![Dashboard_upload](https://user-images.githubusercontent.com/102996550/174074051-4f08287a-0568-4fdf-8ac9-6762e0d8fa94.jpg)
+![Dashboard_upload](https://github.com/prajyotchougale3-pv/Store-Data/blob/main/Screenshot%202026-03-27%20161348.jpg)
+()
 
 # Insights
 
