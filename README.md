@@ -16,62 +16,6 @@ This project solves the problem by providing an interactive Power BI dashboard t
 
 ### Steps followed 
 
-- Step 1 : Load data into Power BI Desktop, dataset is a CSV file.
-
-Step 2 : Open Power Query Editor → In View tab under Data Preview, check Column distribution, Column quality, and Column profile options.
-
-Step 3 : Change profiling to “Column profiling based on entire dataset” instead of default 1000 rows.
-
-Step 4 : Validate columns for missing/error values. Dataset was clean except minor discount category checks.
-
-Step 5 : Create calculated measures in DAX:
-
-Total Sales
-
-Total Profit
-
-Net Sales (Sales – Discount)
-
-Number of Orders
-
-Average Discount
-
-Step 6 : In Report View, apply a professional theme for consistent design.
-
-Step 7 : Add visuals:
-
-Map Chart → Sales by city (Mumbai, Delhi, Pune, etc.).
-
-Card Visual → Total number of orders (e.g., 3510).
-
-Bar Chart → Average discount by promotion categories.
-
-Scatter Plot → Relationship between Profit and Net Sales.
-
-Line Chart → Sales trends from 2020–2024.
-
-Step 8 : Add Slicers (Visual Filters) for Product, Date, Customer ID, and Promotion Category.
-
-Step 9 : Create Top/Bottom Analysis tab → Show top 5 and bottom 5 products by Sales, Profit, and Quantity Sold.
-
-Step 10 : Add Comparison Tab → Compare Sales/Profit/Quantity between two user‑selected periods.
-
-Step 11 : Insert Table Visuals → Show detailed order‑level data with filters applied.
-
-Step 12 : Add branding elements (text boxes for project name, company logo, shapes) for polished look.
-
-Step 13 : Validate calculations (profit margins, discount percentages) and ensure slicers update visuals correctly.
-
-Step 14 : Publish the report to Power BI Service and enable sharing/refresh options.
-
-📌 You can now attach screenshots (like you did in your airline example) after each step or at the end under Dashboard Snapshot.
-
-Do you want me to also draft the Objectives section (like 5–6 bullets) that directly ties these steps to the 8 tasks from your first snapshot? That way your README flows perfectly: Problem → Objectives → Steps → Screenshots.
-
-add dash to bullets
-Here’s your Sales Performance Dashboard steps rewritten with dashes before each bullet, exactly in the style you want. You can later replace the screenshot links with your own:
-
-Steps Followed
 Step 1 – Load data into Power BI Desktop, dataset is a CSV file.
 
 Step 2 – Open Power Query Editor → In View tab under Data Preview, check Column distribution, Column quality, and Column profile options.
